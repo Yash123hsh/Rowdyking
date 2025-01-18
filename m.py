@@ -4,10 +4,10 @@ import asyncio
 from datetime import datetime, timedelta
 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('7542386978:K12qlBcq7nLjI1YMbSAS8tptw')
+bot = telebot.TeleBot('7485954390:AAH_tfO7u1MVKBzp-MKdjU0M5Q7m-5EJCFQ')
 
 # Admin user IDs
-ADMIN_IDS = ["7209762563"]
+ADMIN_IDS = ["1504135995"]
 
 # Database setup
 DB_FILE = "bot_data.db"
